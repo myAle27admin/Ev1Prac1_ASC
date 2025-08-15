@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(fondobalatro.jpg);
+    background-size: cover;       /* Ajusta al tamaño de la ventana */
+    background-position: center;  /* Centra la imagen */
+    background-repeat: no-repeat; /* No repite */
+    background-attachment: fixed; /* Mantiene la imagen fija mientras haces scroll */
+    }
+
+address {
+    background-color: brown;
+    border: 3px double black;
+}
+
+article {
+    background-color: tomato;
+    border: 3px solid black;
+}
+
+.h1header {
+    background-color: chocolate;
+    border: 3px double black;
+    text-align: center;
+}
+
+.h2main {
+    background-color: blue;
+    border: 3px double black;
+    text-align: center;
+}
